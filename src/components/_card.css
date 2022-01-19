@@ -1,0 +1,14 @@
+.photo-card {
+  max-width: 15rem;
+  text-align: center;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.photo-card_img {
+  width: 15rem;
+}
+
+figure {
+  margin: 0;
+}
